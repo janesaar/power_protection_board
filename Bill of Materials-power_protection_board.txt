@@ -1,0 +1,14 @@
+Comment	Description	Designator	Footprint	LibRef	Quantity
+
+"V_IN"	""	"J1"	"POWER-PAD"	"HEADER-1"	"1"
+"V_OUT"	""	"J2"	"POWER-PAD"	"HEADER-1"	"1"
+"GND_IN"	""	"J3"	"POWER-PAD"	"HEADER-1"	"1"
+"GND_OUT"	""	"J4"	"POWER-PAD"	"HEADER-1"	"1"
+""	"LED 0603 SMD Green 525nm 350mcd 20mA"	"LED1"	"LED-0603-GREEN"	"LED_SMD_Green_0603_525nm_350mcd"	"1"
+"MOSFET-N"	""	"Q1, Q2"	"SOT669"	"MOSFET-N"	"2"
+"196k"	"Resistor SMD chip 1.5k Ohm 0.1W 5% 0603"	"R1"	"RESC1608X55N"	"RES_1K5_0603_5%"	"1"
+"105k"	"Resistor SMD chip 1.5k Ohm 0.1W 5% 0603"	"R2"	"RESC1608X55N"	"RES_1K5_0603_5%"	"1"
+"7.5M"	"Resistor SMD chip 1.5k Ohm 0.1W 5% 0603"	"R3"	"RESC1608X55N"	"RES_1K5_0603_5%"	"1"
+"100k"	"Resistor SMD chip 1.5k Ohm 0.1W 5% 0603"	"R4"	"RESC1608X55N"	"RES_1K5_0603_5%"	"1"
+"10k"	"Resistor SMD chip 1.5k Ohm 0.1W 5% 0603"	"R5, R6"	"RESC1608X55N"	"RES_1K5_0603_5%"	"2"
+"LTC4365"	"LTC4365"	"U1"	"SOT23-8"	"LTC4365"	"1"
